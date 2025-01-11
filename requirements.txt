@@ -1,0 +1,8 @@
+langchain 
+youtube-transcript-api 
+tiktoken 
+langchain_community 
+langchain_google_genai
+dotenv
+Flask
+Flask-Cors
