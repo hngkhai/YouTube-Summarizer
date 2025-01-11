@@ -67,9 +67,8 @@ cd youtube-summarizer
 
 1. Open a YouTube video in Chrome.
 2. Click the extension.
-3. The extension will fetch the transcript, summarize it, and display the summary in a popup.
-4. Close the popup by clicking the `ok` button.
-
+3. The extension will fetch the transcript, summarize it, and display the summary in a popup
+   
 ---
 
 ## Project Structure
@@ -114,8 +113,6 @@ youtube-summarizer/
 
 4. **Popup**:
    - Displays the summary in a styled popup.
-   - The popup can be closed by clicking the `×` button.
-
 ---
 
 ## Customizing the Popup
