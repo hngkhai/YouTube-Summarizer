@@ -1,0 +1,41 @@
+# Ignore Python virtual environment
+venv/
+.env/
+.env.local
+.env.development
+.env.production
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Flask cache and logs
+instance/
+*.log
+*.pot
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Node.js and npm files (if applicable)
+node_modules/
+npm-debug.log*
+
+# Ignore Python build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Ignore API keys and sensitive files
+*.key
+*.pem
+*.crt
+*.env
