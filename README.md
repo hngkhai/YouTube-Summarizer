@@ -3,6 +3,8 @@
 This project automatically summarizes YouTube videos using a combination of Python (Flask backend) and a Chrome extension. When you open a YouTube video, the extension fetches the transcript, sends it to the backend for summarization, and displays the summary in a popup.
 
 ---
+![image](https://github.com/user-attachments/assets/b4306305-ebbd-4ce9-99b3-72381b6a6e8b)
+
 
 ## Features
 
